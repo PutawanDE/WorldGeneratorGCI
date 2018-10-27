@@ -7,7 +7,7 @@ This is the new module repository of the new world generator -- updated from the
 ## 3 New Features
 
 1. Added mountains and the configuration UI
-2. Added houses hollow 8x8 cubes)
+2. Added houses (hollow 8x8 cubes)
 3. Added grass blocks on the surface 
 
 | ![MountainsConfig.png](https://github.com/PutawanDE/WorldGeneratorGCI/blob/Screenshots/Images/MountainsConfig.png) | 
